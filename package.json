@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "passive-events-support": "^1.0.33"
+  }
+}
